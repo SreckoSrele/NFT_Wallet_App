@@ -1,0 +1,1 @@
+Pozdrav, ovo su informacije o repozitoriju
